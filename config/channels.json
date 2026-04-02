@@ -1,0 +1,10 @@
+{
+  "_readme": "Add the YouTube channels you want to monitor. To find a channel ID: open the channel in your browser → the URL contains /channel/UCxxxxxxxxxxxxxxxxxxxxxxxx. That 24-character string starting with 'UC' is the ID.",
+  "channels": [
+    {
+      "id": "UCBJycsmduvYEL83R_U4JriQ",
+      "name": "MKBHD",
+      "notes": "Tech reviews and insights from Marques Brownlee"
+    }
+  ]
+}

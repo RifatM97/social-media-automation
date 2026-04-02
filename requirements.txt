@@ -1,0 +1,16 @@
+# Social Content Automation Plugin — Python dependencies
+
+# Excel file management
+openpyxl>=3.1.0
+
+# YouTube Data API v3
+google-api-python-client>=2.100.0
+
+# YouTube transcript fetching (no API key required)
+youtube-transcript-api>=0.6.0
+
+# Anthropic Claude API
+anthropic>=0.40.0
+
+# HTTP client (used for Blotato API calls)
+requests>=2.31.0

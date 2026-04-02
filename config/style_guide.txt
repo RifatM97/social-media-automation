@@ -1,0 +1,42 @@
+BRAND WRITING STYLE GUIDE
+==========================
+
+Replace this file with your own writing style guidelines.
+Claude will read this file when generating content, so the more specific you are,
+the more on-brand the output will be.
+
+SUGGESTED SECTIONS TO FILL IN:
+-------------------------------
+
+TONE:
+  [Describe your overall tone - e.g. "professional but conversational",
+   "bold and direct", "warm and educational", etc.]
+
+VOICE:
+  [Describe your brand voice - e.g. "we use first-person plural (we/our)",
+   "active voice always", "avoid passive constructions"]
+
+AUDIENCE:
+  [Who are you writing for? e.g. "B2B marketing professionals aged 30-50",
+   "early-stage founders", "fitness enthusiasts"]
+
+VOCABULARY:
+  [List preferred words/phrases and words to avoid]
+  Prefer: ...
+  Avoid: ...
+
+FORMATTING PREFERENCES:
+  [e.g. "Use short paragraphs", "Bullet points are fine for LinkedIn but
+   not for newsletter", "Never use em-dashes"]
+
+EXAMPLES OF GOOD CONTENT:
+  [Paste 1-3 examples of content you consider on-brand]
+
+
+DEFAULT GUIDELINES (used until you customise this file):
+---------------------------------------------------------
+Tone: Engaging, conversational, professional but approachable.
+Voice: Active voice. First-person plural where appropriate.
+Audience: Business professionals interested in growth and productivity.
+Formatting: Short paragraphs, clear structure, actionable insights.
+Avoid: Jargon, filler phrases like "In today's fast-paced world", excessive hashtags.

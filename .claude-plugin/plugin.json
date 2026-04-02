@@ -1,0 +1,26 @@
+{
+  "name": "social-content-automation",
+  "version": "1.0.0",
+  "description": "Automates social content production from YouTube videos — monitoring, transcription, content generation, and scheduled publishing",
+  "author": {
+    "name": "Social Content Automation"
+  },
+  "skills": [
+    "skills/setup",
+    "skills/check-channels",
+    "skills/process-videos",
+    "skills/publish-content",
+    "skills/status"
+  ],
+  "commands": [
+    "commands/setup.md",
+    "commands/check-channels.md",
+    "commands/process-videos.md",
+    "commands/publish-content.md",
+    "commands/status.md"
+  ],
+  "requires": {
+    "python": ">=3.9",
+    "env": ["YOUTUBE_API_KEY", "ANTHROPIC_API_KEY"]
+  }
+}

@@ -1,0 +1,16 @@
+# Secrets - never commit
+.env
+
+# Data files - user-specific
+data/content_tracker.xlsx
+
+# Python cache
+scripts/__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Claude local settings (contains personal API permissions)
+.claude/settings.local.json
